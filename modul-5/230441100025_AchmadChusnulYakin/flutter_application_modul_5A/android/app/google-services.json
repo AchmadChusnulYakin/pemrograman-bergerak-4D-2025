@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830639642449",
+    "project_id": "tiketpendakianapp",
+    "storage_bucket": "tiketpendakianapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830639642449:android:aa0f654a09c7f7cef0a570",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDVVhCUXr3l0bkr0fsfxwpT8jFV8Fntg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
